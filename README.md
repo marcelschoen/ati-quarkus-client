@@ -1,4 +1,4 @@
-# petscii-islands-client
+# "All My Islands" Quarkus Client
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
